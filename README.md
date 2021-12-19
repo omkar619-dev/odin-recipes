@@ -4,5 +4,8 @@ I just started this project because this is my first piece of work that i'll do 
 
 html basics will be seen here in this project and then afterwards learning css i will apply that to this project i mean the website ofcourse!
 
-Html is the structure of the web page right
+Html is the structure of the web page right.
+The website that i've created is hosted @ the following link!
+
+https://omkar619-dev.github.io/odin-recipes/
 
